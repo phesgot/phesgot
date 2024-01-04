@@ -62,7 +62,9 @@ Tecnologias utilizadas: Dart, Flutter, API REST e Postgree, Python.
 
 ## Entre em contato
 -📧 Email: pedrotorres.developer@gmail.com
+
 -🔗 LinkedIn: [Pedro Torres](https://www.linkedin.com/in/pedro-henrique-do-espirito-santo-gon%C3%A7alves-de-oliveira-torres-856118b8/)
+
 -🌐 Website: 
 
 <div>
