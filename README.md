@@ -3,16 +3,23 @@
 
 ## Sobre Mim
 -👨‍💻 Desenvolvedor Mobile
+
 -📱 Especializado em iOS e Android
+
 -💡 Sempre buscando aprender e implementar novas ideias
+
 -🌟 Comprometido em entregar soluções de alta qualidade
 
 ## Principais Tecnologias
 
 📱 Flutter(iOS, Adroid)
+
 📱 Dart
+
 🐘 PHP (Web)
-🐍 Python       
+
+🐍 Python  
+
 🔧 Outras: JavaScript, TypeScript, SQL, MySQL, PostgreSQL
 
 <div>
