@@ -1,38 +1,46 @@
-#Pedro Torres
+# Pedro Torres
 ### Olá! 👋 Eu sou o Pedro Torres, um desenvolvedor apaixonado por criar experiências incríveis no mundo mobile. Minha principal área de atuação é o desenvolvimento mobile, mas também trabalho com outras linguagens e tecnologias.
 
-##Sobre Mim
+## Sobre Mim
 -👨‍💻 Desenvolvedor Mobile
 -📱 Especializado em iOS e Android
 -💡 Sempre buscando aprender e implementar novas ideias
 -🌟 Comprometido em entregar soluções de alta qualidade
 
-##Principais Tecnologias
+## Principais Tecnologias
 
 📱 Flutter(iOS, Adroid) 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
                
 📱 Dart
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="40" height="40"/>
           
 🐘 PHP (Web)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
           
 🐍 Python
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
           
           
 🔧 Outras: JavaScript, TypeScript, SQL, MySQL, PostgreSQL
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
             
 
-##Projetos Destacados
+## Projetos Destacados
 Aqui estão alguns dos meus projetos que demonstram minha experiência e habilidades:
 
-##E-Tecnico
+### E-Tecnico
 Descrição: Aplicativo desenvolvido para auxiliar os técnicos industriais em suas atividades profissionais. Com recursos para
 consultas, emissões de certidões e termos de responsabilidade técnica, atualização de cadastro, emissão de anuidade
 e-Técnico que proporciona praticidade e agilidade no dia a dia dos profissionais. Com uma interface intuitiva, o aplicativo é
@@ -41,7 +49,7 @@ burocráticos.
 Disponível: Apple Store e Play Store, conta com + ou - 140 mil usuários.
 Tecnologias utilizadas: Dart, Flutter, API REST e Postgree, Python.
 
-##E-Fiscal
+### E-Fiscal
 Descrição: É um aplicativo desenvolvido para auxiliar os fiscais em suas atividades de fiscalização. Com recursos como
 registro de ocorrências, notificações de irregularidades e relatórios detalhados, o e-Fiscal proporciona agilidade e eficiência
 na fiscalização realizada. Com uma interface intuitiva, o aplicativo permite um controle preciso das atividades de
@@ -49,13 +57,13 @@ fiscalização, contribuindo para a garantia do cumprimento das normas e regulam
 Disponível: Apple Store e Play Store, com + ou - 100 usuários de uso interno.
 Tecnologias utilizadas: Dart, Flutter, API REST e Postgree, Python.
 
-##E-vote
+### E-vote
 Descrição: É um aplicativo desenvolvido para auxiliar em plenárias, é uma ferramenta dedicada à facilitação e gestão de votações durante 
 as plenárias do Conselho Regional. Desenvolvido com a missão de aprimorar o processo decisório e garantir transparência e agilidade, este 
 aplicativo oferece uma plataforma segura e eficiente para conduzir os procedimentos de votação.
 Tecnologias utilizadas: Dart, Flutter, API REST e Postgree, Python.
 
-##Entre em contato
+## Entre em contato
 -📧 Email: pedrotorres.developer@gmail.com
 -🔗 LinkedIn: [Pedro Torres](https://www.linkedin.com/in/pedro-henrique-do-espirito-santo-gon%C3%A7alves-de-oliveira-torres-856118b8/)
 -🌐 Website: 
