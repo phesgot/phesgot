@@ -66,8 +66,8 @@ Tecnologias utilizadas: Dart, Flutter, API REST e Postgree, Python.
 -🌐 Website: 
 
 <div>
-<a href = "pedrotorres.developer@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank](https://www.linkedin.com/in/pedro-henrique-do-espirito-santo-gon%C3%A7alves-de-oliveira-torres-856118b8/)"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:pedrotorres.developer@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-henrique-do-espirito-santo-gon%C3%A7alves-de-oliveira-torres-856118b8/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 Fique à vontade para entrar em contato, estou sempre aberto a novos desafios e colaborações!
