@@ -1,10 +1,10 @@
 # Pedro Torres
-### Olá! 👋 Eu sou o Pedro Torres, um desenvolvedor apaixonado por criar experiências incríveis no mundo mobile. Minha principal área de atuação é o desenvolvimento mobile, mas também trabalho com outras linguagens e tecnologias.
+### Olá! 👋 Eu sou o Pedro Torres, um desenvolvedor apaixonado por criar experiências incríveis no mundo mobile e web.
 
 ## Sobre Mim
 -👨‍💻 Desenvolvedor Mobile
 
--📱 Especializado em iOS e Android
+-👨‍💻 Desenvolvedor Web
 
 -💡 Sempre buscando aprender e implementar novas ideias
 
@@ -18,6 +18,8 @@
 
 🐘 PHP (Web)
 
+Laravel (Web)
+
 🐍 Python  
 
 🔧 Outras: JavaScript, TypeScript, SQL, MySQL, PostgreSQL
@@ -26,6 +28,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
