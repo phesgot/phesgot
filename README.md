@@ -18,7 +18,7 @@
 
 🐘 PHP (Web)
 
-🌍 Laravel (Web)
+🌐 Laravel (Web)
 
 🐍 Python  
 
