@@ -1,10 +1,11 @@
 # Pedro Torres
-### Olá! 👋 Eu sou o Pedro Torres, um desenvolvedor apaixonado por criar experiências incríveis no mundo mobile e web.
+### Olá! 👋 Eu sou o Pedro Torres, um desenvolvedor apaixonado por criar experiências incríveis no mundo web e mobile.
 
 ## Sobre Mim
--👨‍💻 Desenvolvedor Mobile
 
 -👨‍💻 Desenvolvedor Web
+
+-👨‍💻 Desenvolvedor Mobile
 
 -💡 Sempre buscando aprender e implementar novas ideias
 
@@ -12,28 +13,31 @@
 
 ## Principais Tecnologias
 
-📱 Flutter(iOS, Adroid)
-
-📱 Dart
-
 🐘 PHP (Web)
 
 🌐 Laravel (Web)
 
-🐍 Python  
+🌐 Angular (Web)
 
-🔧 Outras: JavaScript, TypeScript, SQL, MySQL, PostgreSQL
+📱 Flutter(iOS, Adroid)
+
+📱 Dart
+
+🔧 Outras: Docker, Python, JavaScript, TypeScript, SQL, MySQL, PostgreSQL, 
 
 <div>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+
 </div>
             
 
@@ -67,8 +71,6 @@ Tecnologias utilizadas: Dart, Flutter, API REST e Postgree, Python.
 -📧 Email: pedrotorres.developer@gmail.com
 
 -🔗 LinkedIn: [Pedro Torres](https://www.linkedin.com/in/pedro-henrique-do-espirito-santo-gon%C3%A7alves-de-oliveira-torres-856118b8/)
-
--🌐 Website: [Portfólio Pedro Torres](https://bonsaideveloper.000webhostapp.com/index.html)
 
 <div>
 <a href = "mailto:pedrotorres.developer@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
