@@ -1,83 +1,40 @@
-# Pedro Torres
-### Olá! 👋 Eu sou o Pedro Torres, um desenvolvedor apaixonado por criar experiências incríveis no mundo web e mobile.
+# 👋 Olá, eu sou o Pedro Torres!
 
-## Sobre Mim
+Sou um Desenvolvedor Fullstack com foco em soluções web e mobile, utilizando tecnologias modernas e com atenção à escalabilidade, performance e experiência do usuário.
 
--👨‍💻 Desenvolvedor Web
+## 💻 Sobre mim
 
--👨‍💻 Desenvolvedor Mobile
+- 🔭 Atualmente atuo como **Analista Desenvolvedor Master II na TTY**
+- ⚙️ Trabalho com **PHP (Laravel)** no back-end e **Angular, Vue.js, Livewire** no front-end
+- 📱 Desenvolvedor mobile com **Flutter** e **Dart**
+- 🧪 Foco em **testes automatizados** com PHPUnit, Jasmine e Karma
+- 🐳 Utilizo **Docker** e Git em ambientes padronizados e CI/CD
+- 🧠 Experiência com **PostgreSQL, MySQL e Oracle**
 
--💡 Sempre buscando aprender e implementar novas ideias
+## 🚀 Tecnologias & Ferramentas
 
--🌟 Comprometido em entregar soluções de alta qualidade
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E5D94?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Principais Tecnologias
+## 📈 GitHub Stats
 
-🐘 PHP (Web)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=phesgot&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phesgot&layout=compact&theme=radical)
 
-🌐 Laravel (Web)
+## 📫 Como me encontrar
 
-🌐 Angular (Web)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-do-e-s-g-de-oliveira-torres-856118b8/)
 
-📱 Flutter(iOS, Adroid)
+---
 
-📱 Dart
-
-🔧 Outras: Docker, Python, JavaScript, TypeScript, SQL, MySQL, PostgreSQL, 
-
-<div>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-
-</div>
-            
-
-## Projetos Destacados
-Aqui estão alguns dos meus projetos que demonstram minha experiência e habilidades:
-
-### E-Tecnico
-Descrição: Aplicativo desenvolvido para auxiliar os técnicos industriais em suas atividades profissionais. Com recursos para
-consultas, emissões de certidões e termos de responsabilidade técnica, atualização de cadastro, emissão de anuidade
-e-Técnico que proporciona praticidade e agilidade no dia a dia dos profissionais. Com uma interface intuitiva, o aplicativo é
-uma ferramenta indispensável para os técnicos industriais, garantindo atualização constante e facilitando processos
-burocráticos.
-Disponível: Apple Store e Play Store, conta com + ou - 140 mil usuários.
-Tecnologias utilizadas: Dart, Flutter, API REST e Postgree, Python.
-
-### E-Fiscal
-Descrição: É um aplicativo desenvolvido para auxiliar os fiscais em suas atividades de fiscalização. Com recursos como
-registro de ocorrências, notificações de irregularidades e relatórios detalhados, o e-Fiscal proporciona agilidade e eficiência
-na fiscalização realizada. Com uma interface intuitiva, o aplicativo permite um controle preciso das atividades de
-fiscalização, contribuindo para a garantia do cumprimento das normas e regulamentos na indústria.
-Disponível: Apple Store e Play Store, com + ou - 100 usuários de uso interno.
-Tecnologias utilizadas: Dart, Flutter, API REST e Postgree, Python.
-
-### E-vote
-Descrição: É um aplicativo desenvolvido para auxiliar em plenárias, é uma ferramenta dedicada à facilitação e gestão de votações durante 
-as plenárias do Conselho Regional. Desenvolvido com a missão de aprimorar o processo decisório e garantir transparência e agilidade, este 
-aplicativo oferece uma plataforma segura e eficiente para conduzir os procedimentos de votação.
-Tecnologias utilizadas: Dart, Flutter, API REST e Postgree, Python.
-
-## Entre em contato
--📧 Email: pedrotorres.developer@gmail.com
-
--🔗 LinkedIn: [Pedro Torres](https://www.linkedin.com/in/pedro-henrique-do-espirito-santo-gon%C3%A7alves-de-oliveira-torres-856118b8/)
-
-<div>
-<a href = "mailto:pedrotorres.developer@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-henrique-do-espirito-santo-gon%C3%A7alves-de-oliveira-torres-856118b8/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-Fique à vontade para entrar em contato, estou sempre aberto a novos desafios e colaborações!
-
-
+⭐️ Sempre buscando aprender, melhorar e contribuir com soluções que realmente façam a diferença!
 
